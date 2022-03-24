@@ -8,7 +8,7 @@ const config = {
   // description: "HALODEVS ( Club Of Data Engineers ESI )",
   url: "https://halodevelopers.github.io/halodevs",
   staticDirectories: ["static"],
-  baseUrl: "/",
+  baseUrl: "https://halodevelopers.github.io/halodevs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
