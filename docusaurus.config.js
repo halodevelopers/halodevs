@@ -178,7 +178,7 @@ const config = {
               },
               {
                 label: "YouTube",
-                href: "",
+                href: "https://youtube.com/",
               },
             ],
           },
