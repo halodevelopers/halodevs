@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>HALODEVS Blog</title>
-        <link>https://codeesi.com/blog</link>
+        <link>https://halodevelopers.github.io/halodevs/blog</link>
         <description>HALODEVS Blog</description>
         <lastBuildDate>Thu, 24 Mar 2022 13:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Competitions]]></title>
-            <link>https://codeesi.com/blog/intro</link>
+            <link>https://halodevelopers.github.io/halodevs/blog/intro</link>
             <guid>/intro</guid>
             <pubDate>Thu, 24 Mar 2022 13:57:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Best FREE Online Courses with Certificates]]></title>
-            <link>https://codeesi.com/blog/best-free-courses-certificates</link>
+            <link>https://halodevelopers.github.io/halodevs/blog/best-free-courses-certificates</link>
             <guid>best-free-courses-certificates</guid>
             <pubDate>Thu, 24 Mar 2022 13:57:53 GMT</pubDate>
             <description><![CDATA[Where and How to Get Courses by field experts with Certificates for FREE?]]></description>
@@ -29,7 +29,7 @@ You can check my certificates list on <strong><a href="https://ahmedbargady.me/c
         </item>
         <item>
             <title><![CDATA[Fintec Hack 2nd Edition]]></title>
-            <link>https://codeesi.com/blog/fintec-hack-2-edition</link>
+            <link>https://halodevelopers.github.io/halodevs/blog/fintec-hack-2-edition</link>
             <guid>fintec-hack-2-edition</guid>
             <pubDate>Thu, 24 Mar 2022 13:57:53 GMT</pubDate>
             <description><![CDATA[La Fintech au service de l'Afrique]]></description>
@@ -40,7 +40,7 @@ You can check my certificates list on <strong><a href="https://ahmedbargady.me/c
         </item>
         <item>
             <title><![CDATA[ITHOLIC CPC Competitive Programming Contest]]></title>
-            <link>https://codeesi.com/blog/it-holic-cpc-2022</link>
+            <link>https://halodevelopers.github.io/halodevs/blog/it-holic-cpc-2022</link>
             <guid>it-holic-cpc-2022</guid>
             <pubDate>Thu, 24 Mar 2022 13:57:53 GMT</pubDate>
             <description><![CDATA[ITHOLIC CPC by ENSIAS IT CLUB]]></description>
@@ -51,7 +51,7 @@ You can check my certificates list on <strong><a href="https://ahmedbargady.me/c
         </item>
         <item>
             <title><![CDATA[UmojaHack Africa 2022]]></title>
-            <link>https://codeesi.com/blog/umojahack-africa-2022</link>
+            <link>https://halodevelopers.github.io/halodevs/blog/umojahack-africa-2022</link>
             <guid>umojahack-africa-2022</guid>
             <pubDate>Thu, 24 Mar 2022 13:57:53 GMT</pubDate>
             <description><![CDATA[30 Countries, 200 Universities, 2000 Students. Africa's biggest inter-university hackathon will be even bigger in 2022!]]></description>
