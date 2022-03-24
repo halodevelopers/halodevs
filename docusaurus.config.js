@@ -170,15 +170,15 @@ const config = {
               },
               {
                 label: "Facebook",
-                href: "https://www.facebook.com/groups/603128047491429/",
+                href: "https://www.facebook.com/groups/",
               },
               {
                 label: "LinkedIn",
-                href: "https://www.linkedin.com/company/codesi19",
+                href: "https://www.linkedin.com/company/halodevs",
               },
               {
                 label: "YouTube",
-                href: "https://youtube.com/channel/UCStGpNYpG_2ROS6E6T-mvPg",
+                href: "",
               },
             ],
           },
@@ -186,21 +186,21 @@ const config = {
             title: "More",
             items: [
               {
-                label: "codeesi.com",
-                href: "https://codeesi.com",
+                label: "halodevs.africa",
+                href: "halodevs.africa",
               },
               {
-                label: "esi.codeesi.com",
-                href: "https://esi.codeesi.com",
+                label: "halodevs.africa",
+                href: "halodevs.africa",
               },
               {
-                label: "enactus.codeesi.com",
-                href: "https://enactus.codeesi.com",
+                label: "info@halodevs.afica",
+                href: "halodevs.africa",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://ahmedbargady.me" target="_blank">JinaCoolProjects</a>. Created with love by Ahmed Bargady`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://kuyesu.github.io.me" target="_blank">Holodevs</a>. Halodevs The Devs Brain Team`,
       },
       prism: {
         theme: lightCodeTheme,
