@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://codeesi.com/blog-events</id>
+    <title>HALODEVS Blog</title>
+    <updated>2022-03-24T13:57:53.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://codeesi.com/blog-events"/>
+    <subtitle>HALODEVS Blog</subtitle>
+    <icon>https://codeesi.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Events]]></title>
+        <id>/intro</id>
+        <link href="https://codeesi.com/blog-events/intro"/>
+        <updated>2022-03-24T13:57:53.000Z</updated>
+    </entry>
+</feed>

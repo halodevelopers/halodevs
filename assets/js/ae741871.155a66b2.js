@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[2835],{6338:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/um-6-p","name":"um6p","count":1,"permalink":"/blog/tags/um-6-p"}')}}]);
