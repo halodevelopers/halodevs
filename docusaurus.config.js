@@ -168,18 +168,6 @@ const config = {
                 label: "Kaggle",
                 href: "https://www.kaggle.com/halodevs",
               },
-              {
-                label: "Facebook",
-                href: "https://www.facebook.com/groups/603128047491429/",
-              },
-              {
-                label: "LinkedIn",
-                href: "https://www.linkedin.com/company/codesi19",
-              },
-              {
-                label: "YouTube",
-                href: "https://youtube.com/channel/UCStGpNYpG_2ROS6E6T-mvPg",
-              },
             ],
           },
           {
@@ -192,10 +180,6 @@ const config = {
               {
                 label: "esi.codeesi.com",
                 href: "https://esi.codeesi.com",
-              },
-              {
-                label: "enactus.codeesi.com",
-                href: "https://enactus.codeesi.com",
               },
             ],
           },
