@@ -6,7 +6,7 @@ const config = {
   title: "HALODEVS",
   tagline: "HALODEVS, WORKSHOPS, AND EVENTS",
   // description: "HALODEVS ( Club Of Data Engineers ESI )",
-  url: "https://codeesi.com",
+  url: "https://halodevelopers.github.io/halodevs",
   staticDirectories: ["static"],
   baseUrl: "/",
   onBrokenLinks: "throw",
