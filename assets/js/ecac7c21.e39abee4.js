@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[6682],{3241:function(e){e.exports=JSON.parse('{"allTagsPath":"/halodevs/blog/tags","slug":"/halodevs/blog/tags/free","name":"free","count":1,"permalink":"/halodevs/blog/tags/free"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[1736],{1605:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/africa","name":"africa","count":1,"permalink":"/blog/tags/africa"}')}}]);

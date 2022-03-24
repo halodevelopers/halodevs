@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[4837],{502:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/datascience","name":"datascience","count":1,"permalink":"/blog/tags/datascience"}')}}]);

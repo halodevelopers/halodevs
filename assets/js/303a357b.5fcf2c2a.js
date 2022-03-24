@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[3017],{4921:function(e){e.exports=JSON.parse('{"allTagsPath":"/halodevs/blog/tags","slug":"/halodevs/blog/tags/certificate","name":"certificate","count":1,"permalink":"/halodevs/blog/tags/certificate"}')}}]);
