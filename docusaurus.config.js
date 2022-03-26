@@ -6,13 +6,13 @@ const config = {
   title: "HALODEVS",
   tagline: "HALODEVS, WORKSHOPS, AND EVENTS",
   // description: "HALODEVS ( Club Of Data Engineers ESI )",
-  url: "https://halodevelopers.github.io",
+  url: "http://ilearning.halodevs.tech",
   staticDirectories: ["static"],
-  baseUrl: "/halodevs/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "halodeveloperss", // Usually your GitHub org/user name.
+  organizationName: "halodevelopers", // Usually your GitHub org/user name.
   projectName: "halodevs", // Usually your repo name.
 
   presets: [
@@ -118,7 +118,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://halodevelopers.github.io/halodevs/",
+            href: "http://ilearning.halodevs.tech/",
             label: "HALODEVS",
             position: "right",
           },
@@ -174,12 +174,12 @@ const config = {
             title: "More",
             items: [
               {
-                label: "codeesi.com",
-                href: "https://codeesi.com",
+                label: "halodevs.tech",
+                href: "http://halodevs.tech/",
               },
               {
-                label: "esi.codeesi.com",
-                href: "https://esi.codeesi.com",
+                label: "ilearning.halodevs.tech",
+                href: "http://ilearning.halodevs.tech/",
               },
             ],
           },
