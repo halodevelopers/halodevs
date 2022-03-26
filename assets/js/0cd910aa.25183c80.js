@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[8639],{9897:function(a){a.exports=JSON.parse('{"allTagsPath":"/halodevs/blog/tags","slug":"/halodevs/blog/tags/hackathon","name":"hackathon","count":2,"permalink":"/halodevs/blog/tags/hackathon"}')}}]);

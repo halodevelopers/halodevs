@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[7368],{3222:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Events","permalink":"/blog-events/intro"}]}')}}]);

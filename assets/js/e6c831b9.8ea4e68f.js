@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[4819],{7214:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"courses","count":1,"permalink":"/blog/tags/courses"}')}}]);

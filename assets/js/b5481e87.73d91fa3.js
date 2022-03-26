@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_esi_docs=self.webpackChunkcode_esi_docs||[]).push([[9137],{2339:function(a){a.exports=JSON.parse('{"allTagsPath":"/halodevs/blog/tags","slug":"/halodevs/blog/tags/africa","name":"africa","count":1,"permalink":"/halodevs/blog/tags/africa"}')}}]);
