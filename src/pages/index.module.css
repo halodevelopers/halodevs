@@ -4,10 +4,12 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 8rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: #0B0B45;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
 }
 
 @media screen and (max-width: 966px) {
@@ -20,4 +22,49 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
+}
+
+.button {
+  margin: 1rem 0;
+
+  color: #fff;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+  cursor: default;
+  background-color: #0B0B45;
+  box-sizing: border-box;
+  font: 400 25px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
+  border-width: 1px;
+  border-style: none;
+  border-color: none;
+  border-image: initial;
+  border-radius: 2px 2px 2px 2px;
+
+}
+
+.buttonsecond {
+  margin: 1.5rem 0;
+  margin-left: 1rem;
+  color: #0B0B45;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-align: center;
+  align-items: flex-start;
+  cursor: default;
+  background-color: #c8c8e6;
+  box-sizing: border-box;
+  font: 400 25px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
+  border-width: 1px;
+  border-style: none;
+  border-color: none;
+  border-image: initial;
+  border-radius: 2px 2px 2px 2px;
+
 }
