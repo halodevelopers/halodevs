@@ -15,8 +15,8 @@ const FeatureList: FeatureItem[] = [
     image: "/img/motivated-community.svg",
     description: (
       <>
-        CODE ESI created 4 years ago and it keeps growing. We have now over 120
-        active members and 10 cells leaders.
+        Halodevs created 4 years ago and it keeps growing. We have now over 120
+        active members
       </>
     ),
   },
