@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "HALODEVS",
-  tagline: "HALODEVS, WORKSHOPS, AND EVENTS",
+  tagline: "HACKATHON, COMPETITIONS, IDEATHONS, AND EVENTS",
   // description: "HALODEVS ( Club Of Data Engineers ESI )",
   url: "http://ilearning.halodevs.tech",
   staticDirectories: ["static"],
@@ -82,6 +82,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'support_us',
+        content:
+          '<a target="_blank" rel="noopener noreferrer" href="https://opensource.fb.com/support-ukraine" style="padding-right: 50px;">Support Ukraine 🇺🇦</a>Help Provide Humanitarian Aid to Ukraine',
+        backgroundColor: '#0B0B45',
+        textColor: '#FFFFFF',
+        isCloseable: false,
+
+      },
       navbar: {
         title: "HALODEVS",
         logo: {
@@ -186,6 +195,7 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} <a href="https://kuyesu.github.io.me" target="_blank">Holodevs</a>. Halodevs The Devs Brain Team`,
       },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
