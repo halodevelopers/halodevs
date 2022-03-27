@@ -3,7 +3,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "The Future is AI\u2122",
+  title: "The Future is AI",
   tagline: "HACKATHON, COMPETITIONS, IDEATHONS, AND EVENTS",
   // description: "HALODEVS ( Club Of Data Engineers ESI )",
   url: "http://ilearning.halodevs.tech",
