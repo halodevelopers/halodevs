@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ilearning.halodevs.tech/blog</id>
-    <title>The Future is AI™ Blog</title>
+    <title>The Future is AI Blog</title>
     <updated>2022-03-24T13:57:53.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ilearning.halodevs.tech/blog"/>
-    <subtitle>The Future is AI™ Blog</subtitle>
+    <subtitle>The Future is AI Blog</subtitle>
     <icon>http://ilearning.halodevs.tech/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Competitions]]></title>
